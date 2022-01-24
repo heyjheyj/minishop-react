@@ -1,0 +1,12 @@
+.header {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    cursor:pointer;
+}
+
+.logoIcon {
+    margin-top: 20px;
+    width: 80px;
+}

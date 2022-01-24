@@ -1,0 +1,35 @@
+.itemlist {
+    width: 340px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: scroll;
+}
+
+li {
+    list-style: none;
+}
+
+.item {
+    margin-top: 5px;
+    background-color: rgb(161, 184, 207);
+    width: 330px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    height: 45px;
+}
+
+.itemUrl {
+    margin-left: 10px;
+    width: 30px;
+}
+
+.itemtypes {
+    width: 200px;
+    padding: 20px;
+}
+
